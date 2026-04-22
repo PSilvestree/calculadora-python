@@ -124,7 +124,3 @@ Os testes estão organizados por classe de operação:
 - [ ] Medição de cobertura de testes com `pytest-cov`
 
 ---
-
-## 👨‍💻 Autor
-
-Desenvolvido como projeto de estudo em Python — aplicando POO, boas práticas e testes unitários.
